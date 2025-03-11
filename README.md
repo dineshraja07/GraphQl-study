@@ -13,3 +13,4 @@
    spring consul discovery - to register any microservice to an consul
    spring for graphql - for use graphQl
    H2 database - just a embedded database
+   spring reactive web - alternative for spring web to enable like webflux and netty server
