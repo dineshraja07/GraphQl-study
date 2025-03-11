@@ -4,3 +4,12 @@
    ->Windows->prefernce->java->installed JRE
    add the path of our jdk: C:\ Program Files\Java\jdk1.8.0_202\jre
    then check that checkbox 
+
+4. basic needed dependcies for write Restapi
+    spring web -includes Restful, embeeded tomcat server
+   Lombok - annotation for reduce the boilerplate code
+   Mysql Driver - for database connnection
+   spring consul config- for spring confiuration
+   spring consul discovery - to register any microservice to an consul
+   spring for graphql - for use graphQl
+   H2 database - just a embedded database
