@@ -15,3 +15,5 @@
    H2 database - just a embedded database
    spring reactive web - alternative for spring web to enable like webflux and netty server
   spring R2DBC- reactive repository for the spring web flux to achieve reactive programming in spring boot to handle multiple request and enable non blocking I/O operations
+  spring cloud gateway or gateway - > for create common entry point for all the microservices
+  spring JPA- for hibernate
